@@ -3,7 +3,7 @@ package ru.cft.shift.nekrasovgleb.mergesort;
 public class Help {
     public static void printHelp() {
         System.out.println();
-        System.out.println("Использование: mergesort.exe [<режим сортировки>] [<тип данных>] [<имя выходного файла>]" +
+        System.out.println("Использование: mergesortapp.exe [<режим сортировки>] [<тип данных>] [<имя выходного файла>]" +
                 " [<имена входных файлов>] ");
         System.out.println();
         System.out.println("Параметры:");
